@@ -1,4 +1,4 @@
-## Hi I’m Full Stack Developer with foundation React and Node js. 
+## Hi I’m Full Stack Developer with foundation on React and Node js. 
 
 
 ## 🌐 Socials:
