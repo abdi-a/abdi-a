@@ -4,95 +4,27 @@
 Hey there! 👋
 I’m Abdisa Awel, a Computer Science undergraduate and Junior Full Stack Developer from Ethiopia 🇪🇹.
 I enjoy building real-world web applications and continuously improving my skills through hands-on projects.
-
 I’m especially interested in backend development and creating systems that solve real problems.
 
 🛠️ What I Do Best
-
-I enjoy building applications from start to finish, including:
-
-Planning application features
-
-Designing databases
-
-Developing backend APIs
-
-Connecting frontend with backend
-
-Implementing authentication and role-based access
-
-I focus on writing clean, understandable code and learning best practices step by step.
+I enjoy building applications from start to finish, including: Planning application features Designing databases Developing backend APIs Connecting frontend with backend
+Implementing authentication and role-based access I focus on writing clean, understandable code and learning best practices step by step.
 
 🚀 My Technical Skills
 💻 Languages & Core Technologies
-
-JavaScript
-
-PHP
-
-Java
+JavaScript,PHP,Java
 
 🧩 Frameworks & Libraries
-
-React.js
-
-Node.js
-
-Express.js
+React.js,Node.js,Express.js
 
 🗄️ Databases
-
-MongoDB
-
-MySQL
-
-Firebase
+MongoDB,MySQL,Firebase
 
 🌐 Web Technologies
-
-HTML5
-
-CSS3
-
-REST APIs
-
-CRUD Operations
+HTML5,CSS3,REST APIs,CRUD Operations
 
 🧰 Tools
-
-Git & GitHub
-
-VS Code
-
-🧑‍💻 Projects I’ve Built
-
-Here are some real-world projects I’ve developed:
-
-🛒 MWU Shop – E-Commerce Platform
-
-Built with React, Node.js, Express, and MySQL
-
-Product listing, cart, order management
-
-Authentication and role-based access
-
-🎓 University Management System
-
-Manages students, courses, grades, and faculty
-
-Role-based dashboards for students, instructors, and admins
-
-💊 Pharmacy System
-
-Medicine inventory and sales management
-
-Invoice generation and real-time stock updates
-
-📚 Library Management System
-
-Book inventory and borrowing/return system
-
-Due date tracking, fine calculation, and search features
+Git & GitHub,VS Code
 
 ➡️ More projects available on my GitHub profile.
 
@@ -101,25 +33,9 @@ Due date tracking, fine calculation, and search features
 🎓 BSc in Computer Science (Undergraduate)
 Madda Walabu University – Bale Robe, Ethiopia
 
-🌱 Currently Learning
-
-Advanced backend development concepts
-
-Database design and optimization
-
-Building scalable full stack applications
-
-🤝 Let’s Connect
-
-I’m open to:
-
-Internships
-
-Junior developer roles
-
-Collaboration on web projects
-
-Learning opportunities
+🌱 Currently Learning Advanced backend development concepts Database design and optimization
+Building scalable full stack applications🤝 Let’s Connect I’m open to: Internships,Junior developer roles
+Collaboration on web projects Learning opportunities
 
 📌 Portfolio: https://my-portfoliio-fm2t.vercel.app/
 
