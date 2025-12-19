@@ -11,6 +11,8 @@ I enjoy building applications from start to finish, including: Planning applicat
 Implementing authentication and role-based access I focus on writing clean, understandable code and learning best practices step by step.
 
 🚀 My Technical Skills:
+
+
 💻 Languages & Core Technologies:
 JavaScript,PHP,Java
 
